@@ -1,4 +1,4 @@
-# CMPM147Midterm
+# NodeGraphGenerator
 
 ## Product
 
