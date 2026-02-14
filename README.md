@@ -14,10 +14,7 @@ This generator has three paramters which alter the shape of the graph: Maximum D
 
 ## Example Outputs
 
-Here is an example of the graph:
-
-
-Here is the saved output of the graph in JSON:
+[Here is an example of the graph:](https://imgur.com/a/RzOXLRN)
 
 ## Limitations
 
